@@ -1,4 +1,4 @@
-BaseConverter
+<span style="font-size:0.5em;">BaseConverter</span>
 
 BaseConverter is a simple Java program that allows users to input a number and convert between different numerical bases, ranging from 2-16. The program uses a terminal interface to accept input from users and output the converted number. Users can perform multiple conversions until they choose to exit the program. 
 
