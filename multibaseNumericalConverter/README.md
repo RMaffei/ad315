@@ -15,16 +15,16 @@ Clone the repository
 svn checkout https://github.com/RMaffei/ad315/trunk/multibaseNumericalConverter.
 ```
 Navigate to the cloned directory
-	```
-	cd multibaseNumericalConverter
-	```
+```
+cd multibaseNumericalConverter
+```
 
 Compile the program
-	```
-	javac BaseConverter.java
-	```
+```
+javac BaseConverter.java
+```
 
 Run the program
-	```
-	java baseConverter
-	```
+```
+java baseConverter
+```
