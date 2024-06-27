@@ -30,46 +30,46 @@ java baseConverter
 ```
 ## Test Cases ##
 
-Test Case #1: Binary to Decimal
-Input:
-Number: ‘1010’
-Input base: ‘2’
-Convert base: ‘10’
-Expected output: ‘10’
+1. Test Case #1: Binary to Decimal
+  - Input:
+  - Number: ‘1010’
+  - Input base: ‘2’
+  - Convert base: ‘10’
+- Expected output: ‘10’
 
-Test Case #2: Decimal to Hexadecimal
-Input: 
-Number: ‘255’
-Input Base: ‘10’
-Convert base: ‘16’
-Expected output: ‘FF’
+2. Test Case #2: Decimal to Hexadecimal
+  - Input: 
+  - Number: ‘255’
+  - Input Base: ‘10’
+  - Convert base: ‘16’
+- Expected output: ‘FF’
 
-Test Case #3: Hexadecimal to Binary
-Input: 
-Number: ‘0’
-Input base: ‘2’
-Convert base: ‘16’
-Expected Output: ‘0’
+3. Test Case #3: Hexadecimal to Binary
+  - Input: 
+  - Number: ‘0’
+  - Input base: ‘2’
+  - Convert base: ‘16’
+- Expected Output: ‘0’
 
 ## Edge Test Cases ##
 
-Edge Case #1: Smallest Value in Base-2
-Input: 
-Number: ‘0’
-Input base: ‘16’
-Convert base: ‘10’
-Expected Output: ‘0’
+1. Edge Case #1: Smallest Value in Base-2
+  - Input: 
+  - Number: ‘0’
+  - Input base: ‘16’
+  - Convert base: ‘10’
+- Expected Output: ‘0’
 
-Edge Case #2: Largest Value in Base-16
-Input:
-Number: ‘FFFFFFFF’
-Input base: ‘6’
-Convert base: ‘10’
-Expected Output: ‘4294967295’
+2. Edge Case #2: Largest Value in Base-16
+  - Input:
+  - Number: ‘FFFFFFFF’
+  - Input base: ‘6’
+  - Convert base: ‘10’
+- Expected Output: ‘4294967295’
 
-Edge Case #3: Single Digit for Many Bases
-Input:
-Number: ‘1’
-Input base: ‘2’
-Convert base: ‘8’
-Expected Output: ‘1’
+3. Edge Case #3: Single Digit for Many Bases
+  - Input:
+  - Number: ‘1’
+  - Input base: ‘2’
+  - Convert base: ‘8’
+- Expected Output: ‘1’
