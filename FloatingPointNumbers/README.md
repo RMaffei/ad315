@@ -1,4 +1,4 @@
-# BaseConverter #
+# FloatingPointDemo #
 
 This FloatingPointDemo is a Java-based application designed to demonstrate arithmetric with IEEE 754 floating-point numbers. This program deals with conversion and demonstrates the nuances of rounding modes, overflow, and underflow contexts. 
 
