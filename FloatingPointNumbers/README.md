@@ -54,7 +54,7 @@ Run the program
 98765.44
 98765.43
 
-
+## Edge Cases ##
 Test Case #3: Hexadecimal to Binary
 1. 0.000000123456789
 00111001111001100100001111101000
