@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Probability Simulations</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<div class="container">
+		<h1>Probability Simulations</h1>
+		<div id="task1" class="task">
+			<h2>Task 1: Simulating Coin Tosses</h2>
+			<button onclick="simulateCoinTosses()">Simulate Coin Tosses</button>
+			<canvas id="coinTossChart" class="chart"></canvas>
+		</div>
+		<div id="task2" class="task">
+			<h2>Task 2: Rolling a Die</h2>
+			<button onclick="simulateDieRolls()">Simulate Die Rolls</button>
+			<canvas id="dieRollChart" class="chart"></canvas>
+		</div>
+		<div id="task3" class="task">
+			<h2>Task 3: Drawing Cards</h2>
+			<button onclick="simulateDrawingCards()">Simulate Drawing Cards</button>
+			<canvas id="cardDrawChart" class="chart"></canvas>
+		</div>
+		<div id="task4" class="task">
+			<h2>Task 4: Probability of Compound Events</h2>
+			<button onclick="simulateTwoCoinTosses()">Simulate Two Coin Tosses</button>
+			<canvas id="twoCoinTossChart" class="chart"></canvas>
+		</div>
+	</div>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="script.js"></script>
+</body>
+
+</html>
