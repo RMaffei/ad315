@@ -24,5 +24,4 @@ Alternatively, you can visit https://www.raemaffei.com/ad315/probability/index.h
    - Expected Result: Positive: 56.25%, Negative:12.5%
 
 ## Demonstration Video ## 
-
-<link> 
+https://raemaffei.com/ad315/probability/test.html
