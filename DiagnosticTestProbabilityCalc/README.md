@@ -15,10 +15,13 @@ Alternatively, you can visit https://www.raemaffei.com/ad315/probability/index.h
 
 - **Normal Case:**
    - Prevalence: 0.02, Sensitivity: 0.85 Specificity: 0.90
+   - Expected Result: Positive: 68%, Negative: 4%
 - **Edge Case:**
    - Prevalence: 0.05, Sensitivity: 0.95, Specificity: 0.98
+   - Expected Result: Positive: 71.43%, Negative: 0.27%
 - **Edge Case:**
    - Prevalence: 0.3, Sensitivity: 0.75, Specificity: 0.75
+   - Expected Result: Positive: 56.25%, Negative:12.5%
 
 ## Demonstration Video ## 
 
